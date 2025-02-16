@@ -13,7 +13,7 @@ Uso Spring Initializr: `https://start.spring.io/`
 ## Ejecución del proyecto
 
 - Clonar/descargar este proyecto
-- Clonar/descargar y ejecutar el proyecto backend `Spring-Boot-footbal-cards`
+- Clonar/descargar y ejecutar el proyecto backend `Spring-Boot-football-cards`
   - https://github.com/JoseManuelMunozManzano/Spring-Boot-football-cards
   - Ver su archivo `README.md`
 - Ejecutar este proyecto con el comando: `./mvnw spring-boot:run -Dspring-boot.run.arguments=--server.port=8081` para evitar conflictos de puertos
