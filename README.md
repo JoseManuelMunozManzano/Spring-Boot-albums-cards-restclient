@@ -14,7 +14,7 @@ Uso Spring Initializr: `https://start.spring.io/`
 
 - Clonar/descargar este proyecto
 - Clonar/descargar y ejecutar el proyecto backend `Spring-Boot-footbal-cards`
-  - https://github.com/JoseManuelMunozManzano/Spring-Boot-footbal-cards
+  - https://github.com/JoseManuelMunozManzano/Spring-Boot-football-cards
   - Ver su archivo `README.md`
 - Ejecutar este proyecto con el comando: `./mvnw spring-boot:run -Dspring-boot.run.arguments=--server.port=8081` para evitar conflictos de puertos
     - O ejecutar directamente desde IntelliJ Idea
@@ -22,7 +22,7 @@ Uso Spring Initializr: `https://start.spring.io/`
 
 ## Uso de Spring Boot y RestClient para consumir un API RESTful
 
-Consumimos los endpoints del proyecto backend football: `https://github.com/JoseManuelMunozManzano/Spring-Boot-footbal-cards`.
+Consumimos los endpoints del proyecto backend football: `https://github.com/JoseManuelMunozManzano/Spring-Boot-football-cards`.
 
 `RestClient` es un componente introducido en Spring Framework 6.1 y disponible en Spring Boot desde la versión 3.2.
 
