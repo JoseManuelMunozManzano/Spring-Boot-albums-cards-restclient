@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "c55ba606-dc3c-4fe9-9bd9-a7cb493193f3",
+		"name": "Spring-Boot-3-Cookbook-Client",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "7508044"
+	},
+	"item": [
+		{
+			"name": "Lista de Players",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8081/albums/players",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"albums",
+						"players"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
